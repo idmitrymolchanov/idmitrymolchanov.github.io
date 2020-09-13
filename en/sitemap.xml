@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://idmitrymolchanov.github.io/</loc>
-    <lastmod>2018-12-19T22:32:19+01:00</lastmod>
+    <lastmod>2020-09-13T16:47:33+03:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
@@ -18,21 +18,12 @@
   </url>
   
   <url>
-    <loc>https://idmitrymolchanov.github.io/about2/</loc>
+    <loc>https://idmitrymolchanov.github.io/sections/main_information/</loc>
+    <lastmod>2020-09-13T16:47:33+03:00</lastmod>
   </url>
   
   <url>
-    <loc>https://idmitrymolchanov.github.io/sections/simple-values/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://idmitrymolchanov.github.io/de/sections/simple-values/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idmitrymolchanov.github.io/sections/simple-values/"
-                />
+    <loc>https://idmitrymolchanov.github.io/about2/</loc>
   </url>
   
   <url>
@@ -51,17 +42,7 @@
   </url>
   
   <url>
-    <loc>https://idmitrymolchanov.github.io/sections/simple-choices/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://idmitrymolchanov.github.io/de/sections/simple-choices/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idmitrymolchanov.github.io/sections/simple-choices/"
-                />
+    <loc>https://idmitrymolchanov.github.io/sections/main_stix/</loc>
   </url>
   
   <url>
@@ -75,20 +56,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idmitrymolchanov.github.io/about/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://idmitrymolchanov.github.io/sections/simple-people/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://idmitrymolchanov.github.io/de/sections/simple-people/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idmitrymolchanov.github.io/sections/simple-people/"
                 />
   </url>
   
@@ -117,6 +84,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idmitrymolchanov.github.io/sections/simple/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://idmitrymolchanov.github.io/sections/</loc>
+    <lastmod>2020-09-13T16:47:33+03:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://idmitrymolchanov.github.io/de/sections/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idmitrymolchanov.github.io/sections/"
                 />
   </url>
   
@@ -311,20 +293,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idmitrymolchanov.github.io/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://idmitrymolchanov.github.io/sections/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://idmitrymolchanov.github.io/de/sections/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idmitrymolchanov.github.io/sections/"
                 />
   </url>
   
