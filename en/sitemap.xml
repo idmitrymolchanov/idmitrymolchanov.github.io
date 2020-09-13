@@ -18,12 +18,22 @@
   </url>
   
   <url>
-    <loc>https://idmitrymolchanov.github.io/sections/main_information/</loc>
-    <lastmod>2020-09-13T16:47:33+03:00</lastmod>
+    <loc>https://idmitrymolchanov.github.io/sections/simple/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://idmitrymolchanov.github.io/de/sections/simple/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://idmitrymolchanov.github.io/sections/simple/"
+                />
   </url>
   
   <url>
-    <loc>https://idmitrymolchanov.github.io/about2/</loc>
+    <loc>https://idmitrymolchanov.github.io/sections/main_information/</loc>
+    <lastmod>2020-09-13T16:47:33+03:00</lastmod>
   </url>
   
   <url>
@@ -42,10 +52,6 @@
   </url>
   
   <url>
-    <loc>https://idmitrymolchanov.github.io/sections/main_stix/</loc>
-  </url>
-  
-  <url>
     <loc>https://idmitrymolchanov.github.io/about/</loc>
     <xhtml:link
                 rel="alternate"
@@ -60,6 +66,10 @@
   </url>
   
   <url>
+    <loc>https://idmitrymolchanov.github.io/sections/main_stix/</loc>
+  </url>
+  
+  <url>
     <loc>https://idmitrymolchanov.github.io/contact/</loc>
     <xhtml:link
                 rel="alternate"
@@ -70,20 +80,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://idmitrymolchanov.github.io/contact/"
-                />
-  </url>
-  
-  <url>
-    <loc>https://idmitrymolchanov.github.io/sections/simple/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://idmitrymolchanov.github.io/de/sections/simple/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://idmitrymolchanov.github.io/sections/simple/"
                 />
   </url>
   

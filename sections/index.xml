@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Simple</title>
+      <link>https://idmitrymolchanov.github.io/sections/simple/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://idmitrymolchanov.github.io/sections/simple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Main Information</title>
       <link>https://idmitrymolchanov.github.io/sections/main_information/</link>
       <pubDate>Sun, 13 Sep 2020 16:47:33 +0300</pubDate>
@@ -30,15 +39,6 @@ What will be specific here will be written in &amp;ldquo;about&amp;rdquo;. But, 
 &amp;ldquo;Здравствуй, ночь. Привет, кровать&amp;rdquo;.
 Мы мечтаем в ней о звездах,
 В потолок смотря опять</description>
-    </item>
-    
-    <item>
-      <title>Simple</title>
-      <link>https://idmitrymolchanov.github.io/sections/simple/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://idmitrymolchanov.github.io/sections/simple/</guid>
-      <description>simple)))</description>
     </item>
     
   </channel>
